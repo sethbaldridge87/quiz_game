@@ -1,4 +1,4 @@
-Quiz Game
+# Quiz Game
 
 Technologies used: jQuery, Bootstrap
 
